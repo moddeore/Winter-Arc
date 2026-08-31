@@ -1,0 +1,8 @@
+{
+  "name": "Winter Arc",
+  "description": "Define your goals. Stay consistent. Become your best version. ❄️",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
